@@ -1,0 +1,12 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Test2502Project
+  gitServerName: lakshitha
+  gitUrl: https://github.com/Lakshitha-Ramesh-IBM
+  gitUsername: Lakshitha-Ramesh-IBM
+  gitBranch: main
+configurationVariables:
+  jdbcfunc.SAPTxStore.failFastMode: false
+  jdbcfunc.SAPTxStore.connPoolAlias: SAP TxStore Pool
